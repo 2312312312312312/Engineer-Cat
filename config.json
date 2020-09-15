@@ -1,0 +1,34 @@
+{
+    "discord": {
+        "token": "",
+        "prefix": "+",
+        "creator": 0,
+        "co-creator": 0
+    },
+
+    "webhooks": {
+        "bugReportWebhook": {
+            "webhook_id": 0,
+            "webhook_token": ""
+        },
+
+        "WelcomerWebhook": {
+            "webhook_id": 0,
+            "webhook_token": ""
+        }
+    },
+
+    "reddit": {
+        "client_id": "",
+        "client_secret": "",
+        "user_agent": ""
+    },
+
+    "subreddits": {
+        "memes": "memes",
+        "cursedminecraft": "cursedminecraft",
+        "discordmemes": "discordmemes",
+        "dogs": "dog",
+        "cats": "cat"
+    } 
+}
